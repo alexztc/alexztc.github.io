@@ -8,10 +8,19 @@ redirect_from:
 ---
 
 
-I am currently a MSCS student at Georgia Institute of Technology ([Gatech](https://www.cc.gatech.edu/)), specializing in Computer System and High Performance Computing.
+I am currently an MSCS student at Georgia Institute of Technology ([Gatech](https://www.cc.gatech.edu/)), specializing in Computer System and High Performance Computing.
 I am very fortunate to be advised by [Prof. Helen Xu]([https://www.XXX.com/](https://itshelenxu.github.io/)) for my Master Thesis.
 My research instests lies in System / HPC / Parallel Computing / ML System and I am very passionate about various acceleration technologies.
 
+
+Education
+======
+* Georgia Institue of Technology, M.S. CS, 2024/08 - 2026/05 (Expected)
+* Hong Kong University of Science and Technology, PhD Student, CSE, 2023/09- 2024/08
+* Shandong University, B.Eng. Data Science and Big Data Technology, 2019/09 - 2023/06
+* The University of Hong Kong, B.Eng.(Exchange) CS, 2022/01 - 2022/05
+
+  
 
 
 <!--
