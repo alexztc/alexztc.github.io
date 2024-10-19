@@ -25,13 +25,15 @@ Education
   * PhD Student, Conputer Science and Engineering, 2023/09- 2024/08
   * Supurvisor: Prof. [Jiasi Shen](https://shenjiasi.com/)
   * Research Topic: PL/SE, Code Comprehension (Quite Hard Direction)
-* Shandong University ([SDU](https://www.sdu.edu.cn/)), Shadong, China
+* Shandong University ([SDU](https://www.sdu.edu.cn/)), Shandong, China
   * B.Eng. Data Science and Big Data Technology, 2019/09 - 2023/06
   * Honored Bachelor Degree & Outstanding Graduate (Top 2%)
   * Mentor: Prof. [Weiguo Liu](https://ieeexplore.ieee.org/author/37422403600), HPC LAB@SDU
   * Final Year Project: Parallel Iterator for Unstructured Grids on Multi-core Platform.
 * The University of Hong Kong ([HKU](https://www.hku.hk/))
   * B.Eng.(Exchange) Computer Science, 2022/01 - 2022/05
+* Shandong Experimental High School ([SDSY](https://en.wikipedia.org/wiki/Shandong_Experimental_High_School)), Shandong, China
+  * Class of 2019
 
 
 Awards & Scholarships
