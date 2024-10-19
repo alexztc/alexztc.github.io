@@ -32,9 +32,10 @@ Education
   * Final Year Project: Parallel Iterator for Unstructured Grids on Multi-core Platform.
 * The University of Hong Kong ([HKU](https://www.hku.hk/))
   * B.Eng.(Exchange) Computer Science, 2022/01 - 2022/05
+<!--
 * Shandong Experimental High School ([SDSY](https://en.wikipedia.org/wiki/Shandong_Experimental_High_School)), Shandong, China
   * Class of 2019
-
+-->
 
 Awards & Scholarships
 =======
