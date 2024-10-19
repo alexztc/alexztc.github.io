@@ -11,6 +11,9 @@ redirect_from:
 I am currently an MSCS student at Georgia Institute of Technology ([Gatech](https://www.cc.gatech.edu/)), specializing in Computer System and High Performance Computing.
 My research instests lies in System / HPC / Parallel Computing / ML System and I am very passionate about various acceleration technologies.
 
+I am very fortunate to be advised by all my adviors / mentors / supervisors. 
+They have set an example for me as a researcher ---- always doing interesting things, pursuing own interests and sticking to them. 
+
 
 Education
 ======
