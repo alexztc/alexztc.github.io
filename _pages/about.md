@@ -12,7 +12,7 @@ I am currently an MSCS student at Georgia Institute of Technology ([Gatech](http
 My research instests lies in System / HPC / Parallel Computing / ML System and I am very passionate about various acceleration technologies.
 
 I am very fortunate to be advised by all my adviors / mentors / supervisors. 
-They have set an example for me as a researcher ---- always doing interesting things, pursuing own interests and sticking to them. 
+They have set an example for me as a researcher ------ *always doing interesting things, pursuing own interests and sticking to them*. 
 
 
 Education
@@ -37,8 +37,8 @@ Education
 Awards & Scholarships
 =======
 - Outstanding Graduate of Shandong Province, Government of Shandong Province, 05, 2023 
-- HPC China22: ACM-China/AMD International Parallel Computing Challenge, Second Prize (2/100+), 11, 2022 
-- HPC China22: The 10th "Intel Cup" Parallel Application Challenge, Third Prize (4/100+),  11, 2022 
+- ACM-China/AMD International Parallel Computing Challenge, Second Prize (2/100+), 11, 2022 
+- The 10th "Intel Cup" Parallel Application Challenge, Third Prize (4/100+),  11, 2022 
 - ASC22 Student Supercomputer Challenge, Second Prize, 02, 2022 
 - National Scholarship, Ministry of Education of PRC,  12, 2021 
 - ICPC China National Invitational Programming Contest(Shannxi), Silver Medal,  06, 2021 
