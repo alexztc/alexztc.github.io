@@ -25,10 +25,21 @@ Education
 * Shandong University ([SDU](https://www.sdu.edu.cn/)), Shadong, China
   * B.Eng. Data Science and Big Data Technology, 2019/09 - 2023/06
   * Honored Bachelor Degree & Outstanding Graduate (Top 2%)
-  * Mentor: Prof. [Weiguo Liu](https://ieeexplore.ieee.org/author/37422403600)
-  * HPC LAB@SDU, Final Year Project: Parallel Iterator for Unstructured Grids on Multi-core Platform.
+  * Mentor: Prof. [Weiguo Liu](https://ieeexplore.ieee.org/author/37422403600), HPC LAB@SDU
+  * Final Year Project: Parallel Iterator for Unstructured Grids on Multi-core Platform.
 * The University of Hong Kong ([HKU](https://www.hku.hk/))
   * B.Eng.(Exchange) Computer Science, 2022/01 - 2022/05
+
+
+Awards & Scholarships
+=======
+- Outstanding Graduate of Shandong Province, Government of Shandong Province, 05, 2023 
+- HPC China22: ACM-China/AMD International Parallel Computing Challenge, Second Prize (2/100+), 11, 2022 
+- HPC China22: The 10th "Intel Cup" Parallel Application Challenge, Third Prize (4/100+),  11, 2022 
+- ASC22 Student Supercomputer Challenge, Second Prize, 02, 2022 
+- National Scholarship, Ministry of Education of PRC,  12, 2021 
+- ICPC China National Invitational Programming Contest(Shannxi), Silver Medal,  06, 2021 
+- ICPC China Provincial Programming Contest(Shandong), Gold Medal,  05, 2021  
 
   
 
