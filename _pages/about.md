@@ -38,6 +38,12 @@ Education
   * Class of 2019
 -->
 
+Teaching Assistant
+======
+* CSE6220 High Performance Computing, 2025 Spring, Georgia Tech
+* COMP2711 Discrete Mathematical Tools for Computer Science, 2024 Spring, HKUST
+
+
 Awards & Scholarships
 =======
 - Outstanding Graduate of Shandong Province, Government of Shandong Province, 05, 2023 
