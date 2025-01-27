@@ -22,8 +22,8 @@ Education
   * Thesis Advisor: Prof. [Helen Xu](https://itshelenxu.github.io/)
   * Paper Title: pdGRASS: A Fast Parallel Density-Aware Algorithm for Graph Spectral Sparsification
 * Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), Hong Kong SAR
-  * PhD Student, Conputer Science and Engineering, 2023/09- 2024/08
-  * Supurvisor: Prof. [Jiasi Shen](https://shenjiasi.com/)
+  * Research Postgraduate Student, Conputer Science and Engineering, 2023/09- 2024/08
+  * Supervisor: Prof. [Jiasi Shen](https://shenjiasi.com/)
   * Research Topic: PL/SE, Code Comprehension (Quite Hard Direction)
 * Shandong University ([SDU](https://www.sdu.edu.cn/)), Shandong, China
   * B.Eng. Data Science and Big Data Technology, 2019/09 - 2023/06
